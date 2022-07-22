@@ -1,0 +1,31 @@
+DOCTYPE html>
+<html>
+    <head>
+        <title> ProjectNo1</title>
+       
+    </head>
+    <body>
+        <h1 style = "color : #00255">INLINE </h1>
+        <p style = "color : skyblue">Name : Anjireddy</p>
+        <P style = "color : pink" > this  is nothing </P>
+        <u style = "color : red"> this is red</u>
+        <p style = "color : yellowgreen">
+            My Bonnie lies over the ocean. </br>
+          
+            My Bonnie lies over the sea.
+        </br>
+            My Bonnie lies over the ocean.
+             </br>
+            Oh, bring back my Bonnie to me.
+          </p>
+          <pre style = "background-color: bisque;">
+            My Bonnie lies over the ocean.
+          
+            My Bonnie lies over the sea.
+          
+            My Bonnie lies over the ocean.
+          
+            Oh, bring back my Bonnie to me.
+          </pre>
+    </body>
+</html><
